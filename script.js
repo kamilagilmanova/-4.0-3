@@ -4,7 +4,6 @@ function isSymmetric(symbols) {
       return false;
     }
   }
-
   return true;
 }
 
